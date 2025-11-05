@@ -1,0 +1,110 @@
+2025-11-05 12:03:21 [error]: Error: Connection terminated due to connection timeout
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-05 12:03:21 [error]: Error: Connection terminated due to connection timeout
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-05 12:18:43 [error]: error: column u.email does not exist
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AssignmentModel.getUserRoleHistory (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/assignmentModel.js:219:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/assignmentController.js:74:21
+2025-11-05 12:18:43 [error]: error: column u.email does not exist
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AssignmentModel.getUserRoleHistory (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/assignmentModel.js:219:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/assignmentController.js:74:21
+2025-11-05 12:19:00 [error]: error: column u.email does not exist
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AssignmentModel.getUserRoleHistory (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/assignmentModel.js:219:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/assignmentController.js:74:21
+2025-11-05 12:19:00 [error]: error: column u.email does not exist
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AssignmentModel.getUserRoleHistory (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/assignmentModel.js:219:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/assignmentController.js:74:21
+2025-11-05 16:51:26 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:26 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:26 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:26 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:30 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:30 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:30 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:30 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:34 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:34 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:52:32 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:52:32 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:52:32 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:52:32 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 18:38:25 [error]: error: there is no unique or exclusion constraint matching the ON CONFLICT specification
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg/lib/client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AssignmentModel.assignRole (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/assignmentModel.js:93:22)
+    at async assignRole (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/assignmentController.js:127:24)
+2025-11-05 18:38:25 [error]: error: there is no unique or exclusion constraint matching the ON CONFLICT specification
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg/lib/client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AssignmentModel.assignRole (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/assignmentModel.js:93:22)
+    at async assignRole (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/assignmentController.js:127:24)

@@ -1,0 +1,1369 @@
+2025-11-04 19:20:17 [info]: 🚀 Role & Permission Service running on port 5004
+2025-11-04 19:20:17 [info]: Environment: development
+2025-11-04 19:20:17 [info]: Database: undefined
+2025-11-04 19:20:24 [info]: Shutting down gracefully...
+2025-11-04 19:20:29 [info]: 🚀 Role & Permission Service running on port 5004
+2025-11-04 19:20:29 [info]: Environment: development
+2025-11-04 19:20:29 [info]: Database: undefined
+2025-11-04 19:21:12 [info]: Shutting down gracefully...
+2025-11-04 19:21:16 [info]: 🚀 Role & Permission Service running on port 5004
+2025-11-04 19:21:16 [info]: Environment: development
+2025-11-04 19:21:16 [info]: Database: vottery
+2025-11-04 22:27:36 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-04 22:27:36 [info]: Environment: development
+2025-11-04 22:27:36 [info]: Database: vottery
+2025-11-04 23:17:20 [info]: GET /api/users/1/roles
+2025-11-04 23:17:20 [info]: GET /api/users/1/permissions
+2025-11-04 23:17:20 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:17:20 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:17:20 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:17:20 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:17:21 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:17:21 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:17:21 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:193:20)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-04 23:17:30 [info]: GET /api/users/1/roles
+2025-11-04 23:17:30 [info]: GET /api/users/1/permissions
+2025-11-04 23:17:31 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:17:31 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:17:31 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:17:31 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:17:31 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:17:31 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:17:31 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:193:20)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-04 23:25:12 [info]: GET /api/users/1/roles
+2025-11-04 23:25:12 [info]: GET /api/users/1/permissions
+2025-11-04 23:25:12 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:25:12 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:25:12 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:25:12 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:25:13 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:193:20)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-04 23:25:13 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:25:13 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:29:47 [info]: GET /api/users/1/roles
+2025-11-04 23:29:47 [info]: GET /api/users/1/permissions
+2025-11-04 23:29:47 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:29:47 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:29:47 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:29:47 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:29:48 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:193:20)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-04 23:29:48 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:29:48 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:29:48 [info]: GET /api/users/1/permissions
+2025-11-04 23:29:48 [info]: GET /api/users/1/roles
+2025-11-04 23:29:48 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:29:48 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:29:48 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:29:48 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:29:49 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:193:20)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-04 23:29:49 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:29:49 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:30:26 [info]: GET /api/users/1/roles
+2025-11-04 23:30:26 [info]: GET /api/users/1/permissions
+2025-11-04 23:30:26 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:30:26 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:30:26 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:30:26 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:30:27 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:30:27 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:30:27 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:193:20)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-04 23:30:33 [info]: GET /api/roles
+2025-11-04 23:30:34 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:30:34 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:30:34 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getAllRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:39:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:15:19
+2025-11-04 23:30:34 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getAllRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:39:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:15:19
+2025-11-04 23:32:00 [info]: GET /api/users/1/roles
+2025-11-04 23:32:00 [info]: GET /api/users/1/permissions
+2025-11-04 23:32:01 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:32:01 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:32:01 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:32:01 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:32:01 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:32:01 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:32:02 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:193:20)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-04 23:32:28 [info]: GET /api/users/1/roles
+2025-11-04 23:32:28 [info]: GET /api/users/1/permissions
+2025-11-04 23:32:28 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:32:28 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:32:28 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:32:28 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:32:29 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:32:29 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:32:29 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:193:20)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-04 23:32:40 [info]: GET /api/roles
+2025-11-04 23:32:41 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:32:41 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:32:41 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getAllRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:39:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:15:19
+2025-11-04 23:32:41 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getAllRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:39:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:15:19
+2025-11-04 23:35:20 [info]: GET /api/users/5/roles
+2025-11-04 23:35:20 [info]: GET /api/users/5/permissions
+2025-11-04 23:35:21 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:35:21 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:35:21 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:35:21 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:35:22 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:193:20)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-04 23:35:22 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:35:22 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:37:01 [info]: GET /api/users/1/roles
+2025-11-04 23:37:01 [info]: GET /api/users/1/permissions
+2025-11-04 23:37:01 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:37:01 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:37:01 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:37:01 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-04 23:37:02 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:37:02 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-04 23:37:02 [error]: error: SSL/TLS required
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:193:20)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-04 23:40:55 [info]: Shutting down gracefully...
+2025-11-04 23:40:59 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-04 23:40:59 [info]: Environment: development
+2025-11-04 23:40:59 [info]: Database: vottery
+2025-11-04 23:43:55 [info]: Shutting down gracefully...
+2025-11-04 23:43:59 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-04 23:43:59 [info]: Environment: development
+2025-11-04 23:43:59 [info]: Database: vottery
+2025-11-04 23:47:41 [info]: Shutting down gracefully...
+2025-11-04 23:47:45 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-04 23:47:45 [info]: Environment: development
+2025-11-04 23:47:45 [info]: Database: vottery
+2025-11-05 09:21:05 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 09:21:05 [info]: Environment: development
+2025-11-05 09:21:05 [info]: Database: vottery
+2025-11-05 10:29:06 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 10:29:06 [info]: Environment: development
+2025-11-05 10:29:06 [info]: Database: vottery
+2025-11-05 10:51:11 [info]: Shutting down gracefully...
+2025-11-05 10:51:11 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 10:51:11 [info]: Environment: development
+2025-11-05 10:51:11 [info]: Database: vottery
+2025-11-05 10:51:16 [info]: Shutting down gracefully...
+2025-11-05 10:51:16 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 10:51:16 [info]: Environment: development
+2025-11-05 10:51:16 [info]: Database: vottery
+2025-11-05 10:53:31 [info]: Shutting down gracefully...
+2025-11-05 10:53:33 [info]: ✅ Database connection successful
+2025-11-05 10:53:33 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 10:53:33 [info]: 🌐 Environment: development
+2025-11-05 10:53:33 [info]: 🗄️  Database: vottery
+2025-11-05 10:53:37 [info]: Shutting down gracefully...
+2025-11-05 10:53:43 [info]: ✅ Database connection successful
+2025-11-05 10:53:43 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 10:53:43 [info]: 🌐 Environment: development
+2025-11-05 10:53:43 [info]: 🗄️  Database: vottery
+2025-11-05 11:22:44 [info]: GET /api/users/1/roles
+2025-11-05 11:22:44 [info]: GET /api/users/1/permissions
+2025-11-05 11:22:51 [info]: GET /api/users/1/roles
+2025-11-05 11:22:51 [info]: GET /api/users/1/permissions
+2025-11-05 11:23:03 [info]: GET /api/users/1/roles
+2025-11-05 11:23:03 [info]: GET /api/users/1/permissions
+2025-11-05 11:23:08 [info]: GET /api/users/1/roles
+2025-11-05 11:23:08 [info]: GET /api/users/1/permissions
+2025-11-05 11:23:41 [info]: GET /api/users/1/roles
+2025-11-05 11:23:41 [info]: GET /api/users/1/permissions
+2025-11-05 11:24:08 [info]: GET /api/users/1/roles
+2025-11-05 11:24:08 [info]: GET /api/users/1/permissions
+2025-11-05 11:26:06 [info]: GET /api/users/1/roles
+2025-11-05 11:26:06 [info]: GET /api/users/1/permissions
+2025-11-05 11:41:30 [info]: Shutting down gracefully...
+2025-11-05 11:41:32 [info]: ✅ Database connection successful
+2025-11-05 11:41:32 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 11:41:32 [info]: 🌐 Environment: development
+2025-11-05 11:41:32 [info]: 🗄️  Database: vottery
+2025-11-05 11:41:37 [info]: GET /api/users/1/roles
+2025-11-05 11:41:37 [info]: GET /api/users/1/permissions
+2025-11-05 11:41:37 [info]: GET /api/users/1/roles
+2025-11-05 11:41:37 [info]: GET /api/users/1/permissions
+2025-11-05 11:41:51 [info]: GET /api/users/1/roles
+2025-11-05 11:41:51 [info]: GET /api/users/1/permissions
+2025-11-05 11:41:51 [info]: GET /api/users/1/roles
+2025-11-05 11:41:51 [info]: GET /api/users/1/permissions
+2025-11-05 11:42:08 [info]: Shutting down gracefully...
+2025-11-05 11:42:10 [info]: ✅ Database connection successful
+2025-11-05 11:42:10 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 11:42:10 [info]: 🌐 Environment: development
+2025-11-05 11:42:10 [info]: 🗄️  Database: vottery
+2025-11-05 11:42:33 [info]: GET /api/users/1/roles
+2025-11-05 11:42:33 [info]: GET /api/users/1/permissions
+2025-11-05 11:42:36 [info]: Shutting down gracefully...
+2025-11-05 11:42:43 [info]: ✅ Database connection successful
+2025-11-05 11:42:43 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 11:42:43 [info]: 🌐 Environment: development
+2025-11-05 11:42:43 [info]: 🗄️  Database: vottery
+2025-11-05 11:48:50 [info]: GET /api/users/1/roles
+2025-11-05 11:48:50 [info]: GET /api/users/1/permissions
+2025-11-05 11:49:05 [info]: GET /api/users/1/roles
+2025-11-05 11:49:05 [info]: GET /api/users/1/permissions
+2025-11-05 11:49:21 [info]: GET /api/roles
+2025-11-05 11:56:04 [info]: GET /api/users/1/roles
+2025-11-05 11:56:04 [info]: GET /api/users/1/permissions
+2025-11-05 11:56:54 [info]: GET /api/users/1/roles
+2025-11-05 11:56:54 [info]: GET /api/users/1/permissions
+2025-11-05 11:57:08 [info]: GET /api/roles
+2025-11-05 12:01:03 [info]: GET /api/users/1/roles
+2025-11-05 12:01:03 [info]: GET /api/users/1/permissions
+2025-11-05 12:01:03 [info]: GET /api/users/1/roles
+2025-11-05 12:01:03 [info]: GET /api/users/1/permissions
+2025-11-05 12:01:17 [info]: GET /api/users/1/roles
+2025-11-05 12:01:17 [info]: GET /api/users/1/permissions
+2025-11-05 12:01:49 [info]: GET /api/users/1/roles
+2025-11-05 12:01:49 [info]: GET /api/users/1/permissions
+2025-11-05 12:02:09 [info]: GET /api/roles
+2025-11-05 12:02:28 [info]: GET /api/users/1/roles
+2025-11-05 12:02:28 [info]: GET /api/users/1/permissions
+2025-11-05 12:03:19 [info]: GET /api/users/1/roles
+2025-11-05 12:03:19 [info]: GET /api/users/1/permissions
+2025-11-05 12:03:21 [error]: Error: Connection terminated due to connection timeout
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-05 12:03:21 [error]: Error: Connection terminated due to connection timeout
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:171:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleCheck.js:104:25)
+2025-11-05 12:03:41 [info]: GET /api/roles
+2025-11-05 12:04:11 [info]: GET /api/users/1/roles
+2025-11-05 12:04:11 [info]: GET /api/users/1/permissions
+2025-11-05 12:04:28 [info]: GET /api/roles
+2025-11-05 12:07:02 [info]: Shutting down gracefully...
+2025-11-05 12:07:04 [info]: ✅ Database connection successful
+2025-11-05 12:07:04 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 12:07:04 [info]: 🌐 Environment: development
+2025-11-05 12:07:04 [info]: 🗄️  Database: vottery
+2025-11-05 12:07:14 [info]: Shutting down gracefully...
+2025-11-05 12:07:16 [info]: ✅ Database connection successful
+2025-11-05 12:07:16 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 12:07:16 [info]: 🌐 Environment: development
+2025-11-05 12:07:16 [info]: 🗄️  Database: vottery
+2025-11-05 12:07:18 [info]: Shutting down gracefully...
+2025-11-05 12:07:26 [info]: ✅ Database connection successful
+2025-11-05 12:07:26 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 12:07:26 [info]: 🌐 Environment: development
+2025-11-05 12:07:26 [info]: 🗄️  Database: vottery
+2025-11-05 12:07:38 [info]: GET /api/users/1/roles
+2025-11-05 12:07:38 [info]: GET /api/users/1/permissions
+2025-11-05 12:07:48 [info]: GET /api/users/1/roles
+2025-11-05 12:07:48 [info]: GET /api/users/1/permissions
+2025-11-05 12:08:23 [info]: GET /api/users/1/roles
+2025-11-05 12:08:23 [info]: GET /api/users/1/permissions
+2025-11-05 12:08:43 [info]: GET /api/roles
+2025-11-05 12:09:48 [info]: GET /api/users/1/roles
+2025-11-05 12:09:48 [info]: GET /api/users/1/permissions
+2025-11-05 12:09:53 [info]: GET /api/users/1/roles
+2025-11-05 12:09:53 [info]: GET /api/users/1/permissions
+2025-11-05 12:12:19 [info]: GET /api/roles
+2025-11-05 12:12:26 [info]: GET /api/users/1/roles
+2025-11-05 12:12:26 [info]: GET /api/users/1/permissions
+2025-11-05 12:12:26 [info]: GET /api/roles
+2025-11-05 12:12:26 [info]: GET /api/users/1/roles
+2025-11-05 12:12:26 [info]: GET /api/users/1/permissions
+2025-11-05 12:12:39 [info]: GET /api/users/1/roles
+2025-11-05 12:12:39 [info]: GET /api/users/1/permissions
+2025-11-05 12:12:45 [info]: GET /api/roles
+2025-11-05 12:13:20 [info]: GET /api/roles
+2025-11-05 12:13:24 [info]: GET /api/roles
+2025-11-05 12:16:44 [info]: GET /api/users/1/roles
+2025-11-05 12:16:44 [info]: GET /api/users/1/permissions
+2025-11-05 12:16:56 [info]: GET /api/permissions
+2025-11-05 12:16:56 [info]: GET /api/roles
+2025-11-05 12:17:38 [info]: GET /api/users/1/roles
+2025-11-05 12:17:38 [info]: GET /api/users/1/permissions
+2025-11-05 12:17:44 [info]: GET /api/assignments
+2025-11-05 12:17:44 [info]: GET /api/roles
+2025-11-05 12:17:48 [info]: GET /api/assignments
+2025-11-05 12:17:50 [info]: GET /api/assignments
+2025-11-05 12:18:34 [info]: GET /api/users/1/roles
+2025-11-05 12:18:34 [info]: GET /api/users/1/permissions
+2025-11-05 12:18:41 [info]: GET /api/users/1/assignment-history
+2025-11-05 12:18:43 [error]: error: column u.email does not exist
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AssignmentModel.getUserRoleHistory (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/assignmentModel.js:219:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/assignmentController.js:74:21
+2025-11-05 12:18:43 [error]: error: column u.email does not exist
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AssignmentModel.getUserRoleHistory (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/assignmentModel.js:219:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/assignmentController.js:74:21
+2025-11-05 12:18:52 [info]: GET /api/users/1/roles
+2025-11-05 12:18:52 [info]: GET /api/users/1/permissions
+2025-11-05 12:18:58 [info]: GET /api/users/1/assignment-history
+2025-11-05 12:19:00 [error]: error: column u.email does not exist
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AssignmentModel.getUserRoleHistory (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/assignmentModel.js:219:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/assignmentController.js:74:21
+2025-11-05 12:19:00 [error]: error: column u.email does not exist
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AssignmentModel.getUserRoleHistory (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/assignmentModel.js:219:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/assignmentController.js:74:21
+2025-11-05 12:28:34 [info]: Shutting down gracefully...
+2025-11-05 12:28:36 [info]: ✅ Database connection successful
+2025-11-05 12:28:36 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 12:28:36 [info]: 🌐 Environment: development
+2025-11-05 12:28:36 [info]: 🗄️  Database: vottery
+2025-11-05 12:29:18 [info]: Shutting down gracefully...
+2025-11-05 12:29:20 [info]: ✅ Database connection successful
+2025-11-05 12:29:20 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 12:29:20 [info]: 🌐 Environment: development
+2025-11-05 12:29:20 [info]: 🗄️  Database: vottery
+2025-11-05 12:29:32 [info]: Shutting down gracefully...
+2025-11-05 12:29:37 [info]: ✅ Database connection successful
+2025-11-05 12:29:37 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 12:29:37 [info]: 🌐 Environment: development
+2025-11-05 12:29:37 [info]: 🗄️  Database: vottery
+2025-11-05 12:29:56 [info]: GET /api/users/1/roles
+2025-11-05 12:29:56 [info]: GET /api/users/1/permissions
+2025-11-05 12:32:29 [info]: GET /api/users/1/roles
+2025-11-05 12:32:29 [info]: GET /api/users/1/permissions
+2025-11-05 12:35:15 [info]: GET /api/users/1/roles
+2025-11-05 12:35:15 [info]: GET /api/users/1/permissions
+2025-11-05 12:36:08 [info]: GET /api/users/1/roles
+2025-11-05 12:36:08 [info]: GET /api/users/1/permissions
+2025-11-05 12:36:20 [info]: GET /api/roles
+2025-11-05 12:36:25 [info]: GET /api/users/1/roles
+2025-11-05 12:36:25 [info]: GET /api/users/1/permissions
+2025-11-05 12:36:33 [info]: GET /api/users/1/roles
+2025-11-05 12:36:33 [info]: GET /api/users/1/permissions
+2025-11-05 12:36:49 [info]: GET /api/users/1/roles
+2025-11-05 12:36:49 [info]: GET /api/users/1/permissions
+2025-11-05 12:40:47 [info]: GET /api/users/1/roles
+2025-11-05 12:40:47 [info]: GET /api/users/1/permissions
+2025-11-05 12:41:24 [info]: GET /api/users/1/roles
+2025-11-05 12:41:24 [info]: GET /api/users/1/permissions
+2025-11-05 12:45:03 [info]: GET /api/users/1/roles
+2025-11-05 12:45:03 [info]: GET /api/users/1/permissions
+2025-11-05 12:48:41 [info]: GET /api/users/1/roles
+2025-11-05 12:48:41 [info]: GET /api/users/1/permissions
+2025-11-05 12:48:51 [info]: GET /api/users/1/roles
+2025-11-05 12:48:51 [info]: GET /api/users/1/permissions
+2025-11-05 12:52:29 [info]: GET /api/users/1/roles
+2025-11-05 12:52:29 [info]: GET /api/users/1/permissions
+2025-11-05 12:52:37 [info]: GET /api/users/1/roles
+2025-11-05 12:52:38 [info]: GET /api/users/1/permissions
+2025-11-05 12:53:20 [info]: GET /api/users/1/roles
+2025-11-05 12:53:20 [info]: GET /api/users/1/permissions
+2025-11-05 12:53:46 [info]: GET /api/users/1/roles
+2025-11-05 12:53:46 [info]: GET /api/users/1/permissions
+2025-11-05 12:54:00 [info]: GET /api/users/1/roles
+2025-11-05 12:54:00 [info]: GET /api/users/1/permissions
+2025-11-05 12:58:07 [info]: GET /api/users/1/roles
+2025-11-05 12:58:07 [info]: GET /api/users/1/permissions
+2025-11-05 12:58:34 [info]: GET /api/users/1/assignment-history
+2025-11-05 12:58:47 [info]: GET /api/users/1/roles
+2025-11-05 12:58:47 [info]: GET /api/users/1/permissions
+2025-11-05 12:58:52 [info]: GET /api/roles
+2025-11-05 13:47:04 [info]: ✅ Database connection successful
+2025-11-05 13:47:04 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 13:47:04 [info]: 🌐 Environment: development
+2025-11-05 13:47:04 [info]: 🗄️  Database: vottery
+2025-11-05 13:47:27 [info]: GET /api/users/1/roles
+2025-11-05 13:47:27 [info]: GET /api/users/1/permissions
+2025-11-05 13:47:29 [info]: GET /api/users/1/roles
+2025-11-05 13:47:30 [info]: GET /api/users/1/permissions
+2025-11-05 13:53:30 [info]: GET /api/users/1/roles
+2025-11-05 13:53:30 [info]: GET /api/users/1/permissions
+2025-11-05 13:53:49 [info]: GET /api/users/1/roles
+2025-11-05 13:53:49 [info]: GET /api/users/1/permissions
+2025-11-05 13:56:33 [info]: GET /api/roles
+2025-11-05 13:56:42 [info]: GET /api/roles
+2025-11-05 13:56:58 [info]: GET /api/permissions
+2025-11-05 13:57:05 [info]: GET /api/permissions
+2025-11-05 13:57:12 [info]: GET /api/roles/4/permissions
+2025-11-05 13:57:35 [info]: GET /api/users/1/roles
+2025-11-05 13:57:35 [info]: GET /api/users/1/permissions
+2025-11-05 13:57:42 [info]: GET /api/assignments
+2025-11-05 13:57:42 [info]: GET /api/roles
+2025-11-05 13:57:54 [info]: GET /api/users/1/assignment-history
+2025-11-05 13:58:14 [info]: GET /api/assignments
+2025-11-05 13:58:17 [info]: GET /api/assignments
+2025-11-05 14:01:44 [info]: POST /api/assignments
+2025-11-05 14:01:46 [info]: GET /api/assignments
+2025-11-05 14:02:00 [info]: GET /api/assignments
+2025-11-05 14:02:00 [info]: GET /favicon.ico
+2025-11-05 14:03:44 [info]: GET /api/assignments
+2025-11-05 14:03:44 [info]: GET /api/roles
+2025-11-05 14:03:44 [info]: GET /api/users/1/roles
+2025-11-05 14:03:44 [info]: GET /api/users/1/permissions
+2025-11-05 14:20:13 [info]: GET /api/users/1/roles
+2025-11-05 14:20:13 [info]: GET /api/users/1/permissions
+2025-11-05 14:20:46 [info]: GET /api/assignments
+2025-11-05 14:20:46 [info]: GET /api/roles
+2025-11-05 14:20:54 [info]: GET /api/assignments
+2025-11-05 14:34:00 [info]: GET /api/users/1/roles
+2025-11-05 14:34:00 [info]: GET /api/users/1/permissions
+2025-11-05 14:34:00 [info]: GET /api/roles
+2025-11-05 14:34:03 [info]: GET /api/users/1/roles
+2025-11-05 14:34:03 [info]: GET /api/users/1/permissions
+2025-11-05 15:32:10 [info]: Shutting down gracefully...
+2025-11-05 16:43:28 [info]: ✅ Database connection successful
+2025-11-05 16:43:28 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 16:43:28 [info]: 🌐 Environment: development
+2025-11-05 16:43:28 [info]: 🗄️  Database: vottery
+2025-11-05 16:43:41 [info]: GET /api/users/1/roles
+2025-11-05 16:43:41 [info]: GET /api/users/1/permissions
+2025-11-05 16:43:47 [info]: GET /api/users/1/roles
+2025-11-05 16:43:47 [info]: GET /api/users/1/permissions
+2025-11-05 16:44:26 [info]: GET /api/roles
+2025-11-05 16:44:26 [info]: GET /api/users/1/roles
+2025-11-05 16:44:57 [info]: GET /api/permissions
+2025-11-05 16:44:57 [info]: GET /api/users/1/roles
+2025-11-05 16:45:05 [info]: GET /api/roles/7/permissions
+2025-11-05 16:45:09 [info]: POST /api/role-permissions/assign
+2025-11-05 16:45:09 [info]: Permission 4 assigned to role 7 by user 1
+2025-11-05 16:45:09 [info]: GET /api/roles/7/permissions
+2025-11-05 16:45:17 [info]: POST /api/role-permissions/remove
+2025-11-05 16:45:18 [info]: Permission 4 removed from role 7 by user 1
+2025-11-05 16:45:18 [info]: GET /api/roles/7/permissions
+2025-11-05 16:45:25 [info]: GET /api/permissions
+2025-11-05 16:45:57 [info]: GET /api/assignments
+2025-11-05 16:45:57 [info]: GET /api/roles
+2025-11-05 16:45:57 [info]: GET /api/users/1/roles
+2025-11-05 16:48:34 [info]: Shutting down gracefully...
+2025-11-05 16:48:36 [info]: ✅ Database connection successful
+2025-11-05 16:48:36 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 16:48:36 [info]: 🌐 Environment: development
+2025-11-05 16:48:36 [info]: 🗄️  Database: vottery
+2025-11-05 16:48:39 [info]: Shutting down gracefully...
+2025-11-05 16:48:48 [info]: ✅ Database connection successful
+2025-11-05 16:48:48 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 16:48:48 [info]: 🌐 Environment: development
+2025-11-05 16:48:48 [info]: 🗄️  Database: vottery
+2025-11-05 16:48:55 [info]: GET /api/assignments
+2025-11-05 16:48:55 [info]: GET /api/roles
+2025-11-05 16:48:55 [info]: GET /api/users/1/roles
+2025-11-05 16:48:55 [info]: GET /api/users/1/permissions
+2025-11-05 16:49:01 [info]: GET /api/users/1/roles
+2025-11-05 16:49:01 [info]: GET /api/users/1/permissions
+2025-11-05 16:50:19 [info]: GET /api/users/1/roles
+2025-11-05 16:50:19 [info]: GET /api/users/1/permissions
+2025-11-05 16:51:26 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:26 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:26 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:26 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:30 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:30 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:30 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:30 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:34 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:51:34 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:52:10 [info]: GET /api/users/1/roles
+2025-11-05 16:52:10 [info]: GET /api/users/1/permissions
+2025-11-05 16:52:32 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:52:32 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:52:32 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:52:32 [error]: Error: connect ETIMEDOUT 35.227.164.209:5432
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-05 16:53:03 [info]: GET /api/assignments
+2025-11-05 16:53:03 [info]: GET /api/roles
+2025-11-05 16:53:03 [info]: GET /api/users/1/roles
+2025-11-05 16:54:51 [info]: GET /api/assignments
+2025-11-05 16:54:51 [info]: GET /api/roles
+2025-11-05 16:54:51 [info]: GET /api/users/1/roles
+2025-11-05 16:54:51 [info]: GET /api/users/1/permissions
+2025-11-05 16:58:30 [info]: GET /api/assignments
+2025-11-05 16:58:34 [info]: GET /api/assignments
+2025-11-05 16:58:51 [info]: POST /api/assignments
+2025-11-05 16:58:51 [info]: GET /api/assignments
+2025-11-05 17:17:15 [info]: GET /api/assignments
+2025-11-05 17:17:15 [info]: GET /api/roles
+2025-11-05 17:17:25 [info]: GET /api/users/1/roles
+2025-11-05 17:17:25 [info]: GET /api/users/1/permissions
+2025-11-05 17:17:55 [info]: GET /api/assignments
+2025-11-05 17:17:55 [info]: GET /api/roles
+2025-11-05 17:21:52 [info]: GET /api/assignments
+2025-11-05 17:21:52 [info]: GET /api/roles
+2025-11-05 17:21:52 [info]: GET /api/users/1/roles
+2025-11-05 17:21:52 [info]: GET /api/users/1/permissions
+2025-11-05 17:22:27 [info]: GET /api/users/search
+2025-11-05 17:22:37 [info]: GET /api/users/1/roles
+2025-11-05 17:22:37 [info]: GET /api/users/1/permissions
+2025-11-05 17:22:42 [info]: GET /api/assignments
+2025-11-05 17:22:42 [info]: GET /api/roles
+2025-11-05 17:22:54 [info]: GET /api/users/search
+2025-11-05 17:22:56 [info]: GET /api/users/search
+2025-11-05 17:23:42 [info]: GET /api/users/1/roles
+2025-11-05 17:23:42 [info]: GET /api/users/1/permissions
+2025-11-05 17:23:57 [info]: GET /api/assignments
+2025-11-05 17:23:57 [info]: GET /api/roles
+2025-11-05 17:27:14 [info]: GET /api/users/1/roles
+2025-11-05 17:27:14 [info]: GET /api/users/1/permissions
+2025-11-05 17:27:41 [info]: GET /api/assignments
+2025-11-05 17:27:41 [info]: GET /api/roles
+2025-11-05 17:27:53 [info]: GET /api/users/search
+2025-11-05 17:29:39 [info]: GET /api/assignments
+2025-11-05 17:29:39 [info]: GET /api/roles
+2025-11-05 17:29:39 [info]: GET /api/users/1/roles
+2025-11-05 17:29:39 [info]: GET /api/users/1/permissions
+2025-11-05 17:29:52 [info]: GET /api/users/1/roles
+2025-11-05 17:29:52 [info]: GET /api/users/1/permissions
+2025-11-05 17:30:19 [info]: GET /api/permissions
+2025-11-05 17:30:19 [info]: GET /api/roles
+2025-11-05 17:30:31 [info]: GET /api/users/1/roles
+2025-11-05 17:30:31 [info]: GET /api/users/1/permissions
+2025-11-05 17:30:38 [info]: GET /api/assignments
+2025-11-05 17:30:38 [info]: GET /api/roles
+2025-11-05 17:30:45 [info]: GET /api/users/search
+2025-11-05 17:30:47 [info]: GET /api/users/search
+2025-11-05 17:30:48 [info]: GET /api/users/search
+2025-11-05 17:30:50 [info]: GET /api/users/search
+2025-11-05 17:30:50 [info]: GET /api/users/search
+2025-11-05 17:30:50 [info]: GET /api/users/search
+2025-11-05 17:30:55 [info]: GET /api/users/search
+2025-11-05 17:30:57 [info]: GET /api/users/search
+2025-11-05 17:31:07 [info]: GET /api/users/search
+2025-11-05 17:31:07 [info]: GET /api/users/search
+2025-11-05 17:31:10 [info]: GET /api/users/search
+2025-11-05 17:31:13 [info]: GET /api/users/search
+2025-11-05 17:31:13 [info]: GET /api/users/search
+2025-11-05 17:31:13 [info]: GET /api/users/search
+2025-11-05 17:31:14 [info]: GET /api/users/search
+2025-11-05 17:31:14 [info]: GET /api/users/search
+2025-11-05 17:31:14 [info]: GET /api/users/search
+2025-11-05 17:31:15 [info]: GET /api/users/search
+2025-11-05 17:31:15 [info]: GET /api/users/search
+2025-11-05 17:31:25 [info]: GET /api/users/search
+2025-11-05 17:31:26 [info]: GET /api/users/search
+2025-11-05 17:45:18 [info]: Shutting down gracefully...
+2025-11-05 17:45:20 [info]: ✅ Database connection successful
+2025-11-05 17:45:20 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 17:45:20 [info]: 🌐 Environment: development
+2025-11-05 17:45:20 [info]: 🗄️  Database: vottery
+2025-11-05 17:45:23 [info]: Shutting down gracefully...
+2025-11-05 17:45:25 [info]: ✅ Database connection successful
+2025-11-05 17:45:25 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 17:45:25 [info]: 🌐 Environment: development
+2025-11-05 17:45:25 [info]: 🗄️  Database: vottery
+2025-11-05 17:51:30 [info]: GET /api/assignments
+2025-11-05 17:51:30 [info]: GET /api/roles
+2025-11-05 17:51:30 [info]: GET /api/users/1/roles
+2025-11-05 17:51:30 [info]: GET /api/users/1/permissions
+2025-11-05 17:51:38 [info]: Shutting down gracefully...
+2025-11-05 17:51:44 [info]: ✅ Database connection successful
+2025-11-05 17:51:44 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 17:51:44 [info]: 🌐 Environment: development
+2025-11-05 17:51:44 [info]: 🗄️  Database: vottery
+2025-11-05 17:51:53 [info]: GET /api/users/search
+2025-11-05 17:51:59 [info]: GET /api/users/search
+2025-11-05 17:51:59 [info]: GET /api/users/search
+2025-11-05 17:52:08 [info]: GET /api/users/search
+2025-11-05 17:52:11 [info]: GET /api/users/search
+2025-11-05 17:52:15 [info]: GET /api/users/search
+2025-11-05 17:52:27 [info]: POST /api/assignments
+2025-11-05 17:52:29 [info]: GET /api/assignments
+2025-11-05 17:52:29 [info]: GET /api/users/1/roles
+2025-11-05 17:52:29 [info]: GET /api/users/1/permissions
+2025-11-05 18:00:43 [info]: Shutting down gracefully...
+2025-11-05 18:00:48 [info]: ✅ Database connection successful
+2025-11-05 18:00:48 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 18:00:48 [info]: 🌐 Environment: development
+2025-11-05 18:00:48 [info]: 🗄️  Database: vottery
+2025-11-05 18:00:52 [info]: GET /api/users/1/roles
+2025-11-05 18:00:52 [info]: GET /api/users/1/permissions
+2025-11-05 18:01:18 [info]: GET /api/assignments
+2025-11-05 18:01:18 [info]: GET /api/roles
+2025-11-05 18:01:29 [info]: GET /api/users/search
+2025-11-05 18:01:31 [info]: GET /api/users/search
+2025-11-05 18:01:40 [info]: GET /api/users/search
+2025-11-05 18:01:49 [info]: GET /api/users/search
+2025-11-05 18:01:50 [info]: GET /api/users/search
+2025-11-05 18:02:06 [info]: POST /api/assignments
+2025-11-05 18:02:06 [info]: GET /api/assignments
+2025-11-05 18:02:06 [info]: GET /api/users/1/roles
+2025-11-05 18:02:06 [info]: GET /api/users/1/permissions
+2025-11-05 18:04:09 [info]: Shutting down gracefully...
+2025-11-05 18:04:12 [info]: ✅ Database connection successful
+2025-11-05 18:04:12 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 18:04:12 [info]: 🌐 Environment: development
+2025-11-05 18:04:12 [info]: 🗄️  Database: vottery
+2025-11-05 18:04:24 [info]: Shutting down gracefully...
+2025-11-05 18:04:31 [info]: ✅ Database connection successful
+2025-11-05 18:04:31 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 18:04:31 [info]: 🌐 Environment: development
+2025-11-05 18:04:31 [info]: 🗄️  Database: vottery
+2025-11-05 18:04:44 [info]: GET /api/users/1/roles
+2025-11-05 18:04:44 [info]: GET /api/users/1/permissions
+2025-11-05 18:05:09 [info]: GET /api/assignments
+2025-11-05 18:05:09 [info]: GET /api/roles
+2025-11-05 18:05:17 [info]: GET /api/users/search
+2025-11-05 18:05:17 [info]: GET /api/users/search
+2025-11-05 18:05:19 [info]: GET /api/users/search
+2025-11-05 18:05:35 [info]: POST /api/assignments
+2025-11-05 18:05:35 [info]: GET /api/assignments
+2025-11-05 18:05:35 [info]: GET /api/users/1/roles
+2025-11-05 18:05:35 [info]: GET /api/users/1/permissions
+2025-11-05 18:10:33 [info]: Shutting down gracefully...
+2025-11-05 18:10:35 [info]: ✅ Database connection successful
+2025-11-05 18:10:35 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 18:10:35 [info]: 🌐 Environment: development
+2025-11-05 18:10:35 [info]: 🗄️  Database: vottery
+2025-11-05 18:10:35 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 18:11:43 [info]: Shutting down gracefully...
+2025-11-05 18:11:45 [info]: ✅ Database connection successful
+2025-11-05 18:11:45 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 18:11:45 [info]: 🌐 Environment: development
+2025-11-05 18:11:45 [info]: 🗄️  Database: vottery
+2025-11-05 18:11:45 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 18:12:01 [info]: Shutting down gracefully...
+2025-11-05 18:12:03 [info]: ✅ Database connection successful
+2025-11-05 18:12:03 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 18:12:03 [info]: 🌐 Environment: development
+2025-11-05 18:12:03 [info]: 🗄️  Database: vottery
+2025-11-05 18:12:03 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 18:12:15 [info]: Shutting down gracefully...
+2025-11-05 18:12:20 [info]: ✅ Database connection successful
+2025-11-05 18:12:20 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 18:12:20 [info]: 🌐 Environment: development
+2025-11-05 18:12:20 [info]: 🗄️  Database: vottery
+2025-11-05 18:12:20 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 18:12:24 [info]: Shutting down gracefully...
+2025-11-05 18:12:24 [info]: Shutting down gracefully...
+2025-11-05 18:12:26 [info]: ✅ Database connection successful
+2025-11-05 18:12:26 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 18:12:26 [info]: 🌐 Environment: development
+2025-11-05 18:12:26 [info]: 🗄️  Database: vottery
+2025-11-05 18:12:26 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 18:12:29 [info]: ✅ Database connection successful
+2025-11-05 18:12:29 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 18:12:29 [info]: 🌐 Environment: development
+2025-11-05 18:12:29 [info]: 🗄️  Database: vottery
+2025-11-05 18:12:29 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 18:12:29 [info]: Shutting down gracefully...
+2025-11-05 18:12:31 [info]: ✅ Database connection successful
+2025-11-05 18:12:31 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 18:12:31 [info]: 🌐 Environment: development
+2025-11-05 18:12:31 [info]: 🗄️  Database: vottery
+2025-11-05 18:12:31 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 18:12:39 [info]: GET /api/users/1/roles
+2025-11-05 18:12:39 [info]: GET /api/users/1/permissions
+2025-11-05 18:12:39 [info]: GET /api/assignments
+2025-11-05 18:12:39 [info]: GET /api/roles
+2025-11-05 18:12:52 [info]: GET /api/users/1/roles
+2025-11-05 18:12:52 [info]: GET /api/users/1/permissions
+2025-11-05 18:13:35 [info]: GET /api/users/1/roles
+2025-11-05 18:13:35 [info]: GET /api/users/1/permissions
+2025-11-05 18:13:51 [info]: GET /api/assignments
+2025-11-05 18:13:51 [info]: GET /api/roles
+2025-11-05 18:14:01 [info]: GET /api/users/search
+2025-11-05 18:14:03 [info]: GET /api/users/search
+2025-11-05 18:14:16 [info]: POST /api/assignments
+2025-11-05 18:14:16 [info]: GET /api/assignments
+2025-11-05 18:14:16 [info]: GET /api/users/1/roles
+2025-11-05 18:14:16 [info]: GET /api/users/1/permissions
+2025-11-05 18:25:43 [info]: GET /api/users/1/roles
+2025-11-05 18:25:43 [info]: GET /api/users/1/permissions
+2025-11-05 18:25:55 [info]: GET /api/assignments
+2025-11-05 18:25:55 [info]: GET /api/roles
+2025-11-05 18:26:11 [info]: GET /api/users/search
+2025-11-05 18:26:12 [info]: GET /api/users/search
+2025-11-05 18:26:12 [info]: GET /api/users/search
+2025-11-05 18:26:13 [info]: GET /api/users/search
+2025-11-05 18:26:13 [info]: GET /api/users/search
+2025-11-05 18:26:16 [info]: GET /api/users/search
+2025-11-05 18:26:27 [info]: POST /api/assignments
+2025-11-05 18:26:27 [info]: GET /api/assignments
+2025-11-05 18:26:27 [info]: GET /api/users/1/roles
+2025-11-05 18:26:27 [info]: GET /api/users/1/permissions
+2025-11-05 18:37:17 [info]: GET /api/users/1/roles
+2025-11-05 18:37:17 [info]: GET /api/users/1/permissions
+2025-11-05 18:37:23 [info]: GET /api/users/1/roles
+2025-11-05 18:37:23 [info]: GET /api/users/1/permissions
+2025-11-05 18:37:54 [info]: GET /api/assignments
+2025-11-05 18:37:54 [info]: GET /api/roles
+2025-11-05 18:37:54 [info]: GET /api/users/1/roles
+2025-11-05 18:38:06 [info]: GET /api/users/search
+2025-11-05 18:38:07 [info]: GET /api/users/search
+2025-11-05 18:38:08 [info]: GET /api/users/search
+2025-11-05 18:38:08 [info]: GET /api/users/search
+2025-11-05 18:38:08 [info]: GET /api/users/search
+2025-11-05 18:38:11 [info]: GET /api/users/search
+2025-11-05 18:38:22 [info]: POST /api/assignments
+2025-11-05 18:38:25 [error]: error: there is no unique or exclusion constraint matching the ON CONFLICT specification
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg/lib/client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AssignmentModel.assignRole (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/assignmentModel.js:93:22)
+    at async assignRole (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/assignmentController.js:127:24)
+2025-11-05 18:38:25 [error]: error: there is no unique or exclusion constraint matching the ON CONFLICT specification
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg/lib/client.js:545:17
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async AssignmentModel.assignRole (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/assignmentModel.js:93:22)
+    at async assignRole (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/assignmentController.js:127:24)
+2025-11-05 18:38:25 [info]: GET /api/assignments
+2025-11-05 18:41:57 [info]: GET /api/users/1/roles
+2025-11-05 18:42:00 [info]: GET /api/users/1/roles
+2025-11-05 18:42:00 [info]: GET /api/users/1/permissions
+2025-11-05 18:42:07 [info]: GET /api/users/1/roles
+2025-11-05 18:42:07 [info]: GET /api/users/1/permissions
+2025-11-05 18:42:33 [info]: GET /api/assignments
+2025-11-05 18:42:33 [info]: GET /api/roles
+2025-11-05 18:42:46 [info]: GET /api/users/search
+2025-11-05 18:42:47 [info]: GET /api/users/search
+2025-11-05 18:42:50 [info]: GET /api/users/search
+2025-11-05 18:43:13 [info]: POST /api/assignments
+2025-11-05 18:43:16 [info]: Cache invalidated for user: 1
+2025-11-05 18:43:16 [info]: Role assigned: User 1 → Advertiser
+2025-11-05 18:43:16 [info]: GET /api/assignments
+2025-11-05 18:43:22 [info]: GET /api/users/1/roles
+2025-11-05 18:43:22 [info]: GET /api/users/1/permissions
+2025-11-05 18:43:27 [info]: GET /api/users/1/roles
+2025-11-05 18:43:27 [info]: GET /api/users/1/permissions
+2025-11-05 18:43:44 [info]: GET /api/assignments
+2025-11-05 18:43:44 [info]: GET /api/roles
+2025-11-05 18:44:00 [info]: POST /api/assignments/deactivate
+2025-11-05 18:44:02 [info]: Cache invalidated for user: 1
+2025-11-05 18:44:02 [info]: Role deactivated: User 1 → Advertiser
+2025-11-05 18:44:02 [info]: GET /api/assignments
+2025-11-05 18:44:21 [info]: Shutting down gracefully...
+2025-11-05 18:44:28 [info]: ✅ Database connection successful
+2025-11-05 18:44:28 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 18:44:28 [info]: 🌐 Environment: development
+2025-11-05 18:44:28 [info]: 🗄️  Database: vottery
+2025-11-05 18:44:28 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 19:02:20 [info]: GET /api/assignments
+2025-11-05 19:02:20 [info]: GET /api/roles
+2025-11-05 19:02:20 [info]: GET /api/users/1/roles
+2025-11-05 19:02:20 [info]: GET /api/users/1/permissions
+2025-11-05 19:02:33 [info]: GET /api/users/1/roles
+2025-11-05 19:02:33 [info]: GET /api/users/1/permissions
+2025-11-05 19:03:17 [info]: GET /api/assignments
+2025-11-05 19:03:17 [info]: GET /api/roles
+2025-11-05 19:03:17 [info]: GET /api/users/1/roles
+2025-11-05 19:04:48 [info]: GET /api/users/search
+2025-11-05 19:04:51 [info]: GET /api/users/search
+2025-11-05 19:05:04 [info]: POST /api/assignments
+2025-11-05 19:05:06 [info]: Cache invalidated for user: 5
+2025-11-05 19:05:06 [info]: Role assigned: User 5 → Admin
+2025-11-05 19:05:06 [info]: GET /api/assignments
+2025-11-05 19:05:13 [info]: GET /api/users/1/roles
+2025-11-05 19:05:13 [info]: GET /api/users/1/permissions
+2025-11-05 19:05:27 [info]: GET /api/users/5/roles
+2025-11-05 19:05:27 [info]: GET /api/users/5/permissions
+2025-11-05 19:13:10 [info]: Shutting down gracefully...
+2025-11-05 19:13:12 [info]: ✅ Database connection successful
+2025-11-05 19:13:12 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 19:13:12 [info]: 🌐 Environment: development
+2025-11-05 19:13:12 [info]: 🗄️  Database: vottery
+2025-11-05 19:13:12 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 19:13:39 [info]: Shutting down gracefully...
+2025-11-05 19:13:41 [info]: ✅ Database connection successful
+2025-11-05 19:13:41 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 19:13:41 [info]: 🌐 Environment: development
+2025-11-05 19:13:41 [info]: 🗄️  Database: vottery
+2025-11-05 19:13:41 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 19:13:51 [info]: Shutting down gracefully...
+2025-11-05 19:13:54 [info]: ✅ Database connection successful
+2025-11-05 19:13:54 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 19:13:54 [info]: 🌐 Environment: development
+2025-11-05 19:13:54 [info]: 🗄️  Database: vottery
+2025-11-05 19:13:54 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 19:14:16 [info]: Shutting down gracefully...
+2025-11-05 19:14:18 [info]: ✅ Database connection successful
+2025-11-05 19:14:18 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 19:14:18 [info]: 🌐 Environment: development
+2025-11-05 19:14:18 [info]: 🗄️  Database: vottery
+2025-11-05 19:14:18 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 19:14:53 [info]: GET /api/users/5/roles
+2025-11-05 19:14:53 [info]: GET /api/users/5/permissions
+2025-11-05 19:14:55 [info]: GET /api/users/5/roles
+2025-11-05 19:14:55 [info]: GET /api/users/5/permissions
+2025-11-05 19:14:59 [info]: GET /api/users/5/roles
+2025-11-05 19:14:59 [info]: GET /api/users/5/permissions
+2025-11-05 19:15:00 [info]: GET /api/users/5/roles
+2025-11-05 19:15:00 [info]: GET /api/users/5/permissions
+2025-11-05 19:15:13 [info]: GET /api/users/5/roles
+2025-11-05 19:15:13 [info]: GET /api/users/5/permissions
+2025-11-05 19:15:14 [info]: GET /api/users/5/roles
+2025-11-05 19:15:14 [info]: GET /api/users/5/permissions
+2025-11-05 19:21:41 [info]: GET /api/users/1/roles
+2025-11-05 19:21:41 [info]: GET /api/users/1/permissions
+2025-11-05 19:22:02 [info]: GET /api/users/1/roles
+2025-11-05 19:22:02 [info]: GET /api/users/1/permissions
+2025-11-05 19:22:15 [info]: GET /api/assignments
+2025-11-05 19:22:15 [info]: GET /api/roles
+2025-11-05 19:22:36 [info]: DELETE /api/assignments
+2025-11-05 19:22:38 [info]: Cache invalidated for user: 1
+2025-11-05 19:22:38 [info]: Role assignment deleted: User 1 → Manager
+2025-11-05 19:22:38 [info]: GET /api/assignments
+2025-11-05 19:28:11 [info]: GET /api/users/1/roles
+2025-11-05 19:28:11 [info]: GET /api/users/1/permissions
+2025-11-05 19:31:26 [info]: GET /api/users/1/roles
+2025-11-05 19:31:26 [info]: GET /api/users/1/permissions
+2025-11-05 19:31:30 [info]: GET /api/users/1/roles
+2025-11-05 19:31:30 [info]: GET /api/users/1/permissions
+2025-11-05 19:36:28 [info]: GET /api/users/1/roles
+2025-11-05 19:36:51 [info]: GET /api/users/5/roles
+2025-11-05 19:36:51 [info]: GET /api/users/5/permissions
+2025-11-05 19:37:15 [info]: GET /api/users/1/roles
+2025-11-05 19:37:15 [info]: GET /api/users/1/permissions
+2025-11-05 19:40:01 [info]: GET /api/users/5/roles
+2025-11-05 19:40:01 [info]: GET /api/users/5/permissions
+2025-11-05 19:43:07 [info]: GET /api/users/1/roles
+2025-11-05 19:43:07 [info]: GET /api/users/1/permissions
+2025-11-05 19:46:01 [info]: Shutting down gracefully...
+2025-11-05 19:46:03 [info]: ✅ Database connection successful
+2025-11-05 19:46:03 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 19:46:03 [info]: 🌐 Environment: development
+2025-11-05 19:46:03 [info]: 🗄️  Database: vottery
+2025-11-05 19:46:03 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 19:46:56 [info]: GET /api/users/5/roles
+2025-11-05 19:50:12 [info]: GET /api/users/5/roles
+2025-11-05 19:50:12 [info]: GET /api/users/5/permissions
+2025-11-05 19:50:12 [info]: GET /api/users/1/roles
+2025-11-05 19:50:12 [info]: GET /api/users/1/permissions
+2025-11-05 19:50:14 [info]: GET /api/users/1/permissions
+2025-11-05 19:50:14 [info]: GET /api/users/1/roles
+2025-11-05 19:50:58 [info]: Shutting down gracefully...
+2025-11-05 19:51:03 [info]: ✅ Database connection successful
+2025-11-05 19:51:03 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 19:51:03 [info]: 🌐 Environment: development
+2025-11-05 19:51:03 [info]: 🗄️  Database: vottery
+2025-11-05 19:51:03 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 19:51:23 [info]: GET /api/users/1/roles
+2025-11-05 19:51:23 [info]: GET /api/users/1/permissions
+2025-11-05 19:51:59 [info]: GET /api/users/5/roles
+2025-11-05 19:51:59 [info]: GET /api/users/5/permissions
+2025-11-05 20:04:05 [info]: GET /api/users/5/roles
+2025-11-05 20:04:05 [info]: GET /api/users/5/permissions
+2025-11-05 20:05:14 [info]: GET /api/users/1/roles
+2025-11-05 20:05:14 [info]: GET /api/users/1/permissions
+2025-11-05 20:05:24 [info]: GET /api/assignments
+2025-11-05 20:05:24 [info]: GET /api/roles
+2025-11-05 20:20:03 [info]: GET /api/users/1/roles
+2025-11-05 20:20:03 [info]: GET /api/users/1/permissions
+2025-11-05 20:20:08 [info]: GET /api/roles
+2025-11-05 20:20:36 [info]: GET /api/users/1/roles
+2025-11-05 20:20:42 [info]: GET /api/permissions
+2025-11-05 20:20:42 [info]: GET /api/roles
+2025-11-05 20:21:03 [info]: GET /api/users/1/roles
+2025-11-05 20:21:03 [info]: GET /api/users/1/permissions
+2025-11-05 20:21:08 [info]: GET /api/users/1/assignment-history
+2025-11-05 20:22:22 [info]: Shutting down gracefully...
+2025-11-05 20:22:24 [info]: ✅ Database connection successful
+2025-11-05 20:22:24 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 20:22:24 [info]: 🌐 Environment: development
+2025-11-05 20:22:24 [info]: 🗄️  Database: vottery
+2025-11-05 20:22:24 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 20:24:48 [info]: Shutting down gracefully...
+2025-11-05 20:24:53 [info]: ✅ Database connection successful
+2025-11-05 20:24:53 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 20:24:53 [info]: 🌐 Environment: development
+2025-11-05 20:24:53 [info]: 🗄️  Database: vottery
+2025-11-05 20:24:53 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 20:25:25 [info]: GET /api/users/1/roles
+2025-11-05 20:25:25 [info]: GET /api/users/1/permissions
+2025-11-05 20:25:36 [info]: GET /api/assignments
+2025-11-05 20:25:36 [info]: GET /api/roles
+2025-11-05 20:26:07 [info]: DELETE /api/assignments
+2025-11-05 20:26:09 [info]: Cache invalidated for user: 5
+2025-11-05 20:26:09 [info]: 🗑️ Role DELETED permanently: User 5 → Admin
+2025-11-05 20:26:09 [info]: GET /api/assignments
+2025-11-05 20:26:20 [info]: GET /api/users/1/roles
+2025-11-05 20:26:20 [info]: GET /api/users/1/permissions
+2025-11-05 20:26:37 [info]: GET /api/users/5/roles
+2025-11-05 20:26:37 [info]: GET /api/users/5/permissions
+2025-11-05 20:27:13 [info]: GET /api/users/1/roles
+2025-11-05 20:27:13 [info]: GET /api/users/1/permissions
+2025-11-05 20:27:28 [info]: GET /api/assignments
+2025-11-05 20:27:28 [info]: GET /api/roles
+2025-11-05 20:27:35 [info]: GET /api/users/search
+2025-11-05 20:27:36 [info]: GET /api/users/search
+2025-11-05 20:27:39 [info]: GET /api/users/search
+2025-11-05 20:27:58 [info]: POST /api/assignments
+2025-11-05 20:28:00 [info]: 📋 Assigning role: User 5 → Content Creator (Subscribed)
+2025-11-05 20:28:00 [info]: ➕ Creating NEW role "Content Creator (Subscribed)" for user 5...
+2025-11-05 20:28:01 [info]: ✅ Created NEW role: Content Creator (Subscribed)
+2025-11-05 20:28:01 [info]: 📊 User 5 now has 2 active roles: [Content Creator (Subscribed), Voter]
+2025-11-05 20:28:01 [info]: Cache invalidated for user: 5
+2025-11-05 20:28:01 [info]: GET /api/assignments
+2025-11-05 20:28:20 [info]: DELETE /api/assignments
+2025-11-05 20:28:22 [info]: Cache invalidated for user: 5
+2025-11-05 20:28:22 [info]: 🗑️ Role DELETED permanently: User 5 → Content Creator (Subscribed)
+2025-11-05 20:28:22 [info]: GET /api/assignments
+2025-11-05 20:28:29 [info]: GET /api/users/search
+2025-11-05 20:28:29 [info]: GET /api/users/search
+2025-11-05 20:28:31 [info]: GET /api/users/search
+2025-11-05 20:28:47 [info]: POST /api/assignments
+2025-11-05 20:28:50 [info]: 📋 Assigning role: User 5 → Individual Election Creator (Free)
+2025-11-05 20:28:50 [info]: ➕ Creating NEW role "Individual Election Creator (Free)" for user 5...
+2025-11-05 20:28:50 [info]: ✅ Created NEW role: Individual Election Creator (Free)
+2025-11-05 20:28:50 [info]: 📊 User 5 now has 2 active roles: [Individual Election Creator (Free), Voter]
+2025-11-05 20:28:51 [info]: Cache invalidated for user: 5
+2025-11-05 20:28:51 [info]: GET /api/assignments
+2025-11-05 20:29:02 [info]: GET /api/users/1/roles
+2025-11-05 20:29:02 [info]: GET /api/users/1/permissions
+2025-11-05 20:29:15 [info]: GET /api/users/5/roles
+2025-11-05 20:29:15 [info]: GET /api/users/5/permissions
+2025-11-05 20:30:03 [info]: DELETE /api/assignments
+2025-11-05 20:30:05 [info]: Cache invalidated for user: 5
+2025-11-05 20:30:05 [info]: 🗑️ Role DELETED permanently: User 5 → Individual Election Creator (Free)
+2025-11-05 20:30:05 [info]: GET /api/assignments
+2025-11-05 20:35:16 [info]: Shutting down gracefully...
+2025-11-05 20:35:18 [info]: ✅ Database connection successful
+2025-11-05 20:35:18 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 20:35:18 [info]: 🌐 Environment: development
+2025-11-05 20:35:18 [info]: 🗄️  Database: vottery
+2025-11-05 20:35:18 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 20:35:19 [info]: Shutting down gracefully...
+2025-11-05 20:35:21 [info]: ✅ Database connection successful
+2025-11-05 20:35:21 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 20:35:21 [info]: 🌐 Environment: development
+2025-11-05 20:35:21 [info]: 🗄️  Database: vottery
+2025-11-05 20:35:21 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 20:36:05 [info]: Shutting down gracefully...
+2025-11-05 20:36:07 [info]: Shutting down gracefully...
+2025-11-05 20:36:07 [info]: ✅ Database connection successful
+2025-11-05 20:36:07 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 20:36:07 [info]: 🌐 Environment: development
+2025-11-05 20:36:07 [info]: 🗄️  Database: vottery
+2025-11-05 20:36:07 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 20:36:10 [info]: ✅ Database connection successful
+2025-11-05 20:36:10 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 20:36:10 [info]: 🌐 Environment: development
+2025-11-05 20:36:10 [info]: 🗄️  Database: vottery
+2025-11-05 20:36:10 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 20:40:18 [info]: Shutting down gracefully...
+2025-11-05 20:40:23 [info]: ✅ Database connection successful
+2025-11-05 20:40:23 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 20:40:23 [info]: 🌐 Environment: development
+2025-11-05 20:40:23 [info]: 🗄️  Database: vottery
+2025-11-05 20:40:23 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 20:40:35 [info]: GET /api/users/5/roles
+2025-11-05 20:40:35 [info]: GET /api/users/5/permissions
+2025-11-05 20:41:05 [info]: GET /api/users/1/roles
+2025-11-05 20:41:05 [info]: GET /api/users/1/permissions
+2025-11-05 20:41:17 [info]: GET /api/assignments
+2025-11-05 20:41:17 [info]: GET /api/roles
+2025-11-05 20:41:59 [info]: GET /api/users/1/roles
+2025-11-05 20:41:59 [info]: GET /api/users/1/permissions
+2025-11-05 20:42:36 [info]: GET /api/users/1/assignment-history
+2025-11-05 20:42:36 [info]: GET /api/users/1/roles
+2025-11-05 20:42:45 [info]: GET /api/users/1/roles
+2025-11-05 20:42:45 [info]: GET /api/users/1/permissions
+2025-11-05 20:42:55 [info]: GET /api/users/1/assignment-history
+2025-11-05 20:44:42 [info]: GET /api/assignments
+2025-11-05 20:44:42 [info]: GET /api/roles
+2025-11-05 20:44:42 [info]: GET /api/users/1/roles
+2025-11-05 20:44:42 [info]: GET /api/users/1/permissions
+2025-11-05 20:44:46 [info]: GET /api/users/1/roles
+2025-11-05 20:44:46 [info]: GET /api/users/1/permissions
+2025-11-05 20:45:02 [info]: GET /api/users/5/roles
+2025-11-05 20:45:02 [info]: GET /api/users/5/permissions
+2025-11-05 20:47:30 [info]: GET /api/users/1/assignment-history
+2025-11-05 20:47:30 [info]: GET /api/users/1/roles
+2025-11-05 20:47:30 [info]: GET /api/users/1/permissions
+2025-11-05 20:47:54 [info]: GET /api/users/5/roles
+2025-11-05 20:47:54 [info]: GET /api/users/5/permissions
+2025-11-05 20:47:55 [info]: GET /api/users/1/roles
+2025-11-05 20:47:55 [info]: GET /api/users/1/permissions
+2025-11-05 20:47:55 [info]: GET /api/users/1/roles
+2025-11-05 20:47:55 [info]: GET /api/users/1/permissions
+2025-11-05 20:47:55 [info]: GET /api/users/1/assignment-history
+2025-11-05 20:48:22 [info]: GET /api/users/1/roles
+2025-11-05 20:48:22 [info]: GET /api/users/1/permissions
+2025-11-05 20:48:33 [info]: GET /api/users/1/assignment-history
+2025-11-05 20:48:48 [info]: GET /api/users/1/assignment-history
+2025-11-05 20:48:50 [info]: GET /api/users/1/assignment-history
+2025-11-05 20:48:52 [info]: GET /api/users/1/assignment-history
+2025-11-05 20:49:01 [info]: GET /api/users/1/roles
+2025-11-05 20:49:01 [info]: GET /api/users/1/permissions
+2025-11-05 20:49:07 [info]: GET /api/assignments
+2025-11-05 20:49:07 [info]: GET /api/roles
+2025-11-05 20:49:27 [info]: GET /api/users/1/roles
+2025-11-05 20:49:27 [info]: GET /api/users/1/permissions
+2025-11-05 20:49:39 [info]: GET /api/users/1/roles
+2025-11-05 20:49:39 [info]: GET /api/users/1/permissions
+2025-11-05 20:55:08 [info]: GET /api/users/5/roles
+2025-11-05 20:55:08 [info]: GET /api/users/5/permissions
+2025-11-05 20:57:23 [info]: GET /api/users/5/roles
+2025-11-05 20:58:34 [info]: GET /api/users/5/roles
+2025-11-05 20:58:59 [info]: GET /api/roles
+2025-11-05 20:58:59 [info]: GET /api/users/1/roles
+2025-11-05 21:01:37 [info]: GET /api/users/1/roles
+2025-11-05 21:01:37 [info]: GET /api/users/1/permissions
+2025-11-05 21:01:43 [info]: GET /api/users/1/assignment-history
+2025-11-05 21:01:54 [info]: GET /api/users/5/assignment-history
+2025-11-05 21:02:08 [info]: GET /api/users/1/assignment-history
+2025-11-05 21:02:17 [info]: GET /api/users/1/roles
+2025-11-05 21:02:17 [info]: GET /api/users/1/permissions
+2025-11-05 21:02:23 [info]: GET /api/assignments
+2025-11-05 21:02:23 [info]: GET /api/roles
+2025-11-05 21:03:48 [info]: GET /api/users/1/roles
+2025-11-05 21:03:48 [info]: GET /api/users/1/permissions
+2025-11-05 21:03:55 [info]: GET /api/roles
+2025-11-05 21:05:19 [info]: GET /api/users/1/assignment-history
+2025-11-05 21:05:19 [info]: GET /api/users/1/roles
+2025-11-05 22:34:43 [info]: ✅ Database connection successful
+2025-11-05 22:34:43 [info]: 🚀 Role & Permission Service running on port 3004
+2025-11-05 22:34:43 [info]: 🌐 Environment: development
+2025-11-05 22:34:43 [info]: 🗄️  Database: vottery
+2025-11-05 22:34:43 [info]: 🔧 Debug mode: ENABLED
+2025-11-05 22:35:56 [info]: GET /api/users/1/permissions
+2025-11-05 22:35:56 [info]: GET /api/users/1/roles
+2025-11-05 22:36:10 [info]: GET /api/roles
