@@ -108,3 +108,223 @@
     at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
     at async AssignmentModel.assignRole (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/assignmentModel.js:93:22)
     at async assignRole (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/assignmentController.js:127:24)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:243:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:243:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:243:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:243:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getAllRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:38:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:15:19
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getAllRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:38:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:15:19
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:243:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:243:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:243:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:243:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async attachUserInfo (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/middleware/roleMiddleware.js:104:25)
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserRoles (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:201:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:117:23
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:243:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25
+2025-11-08 20:28:45 [error]: Error: getaddrinfo EAI_AGAIN dpg-d2q7ac6mcj7s73adm7kg-a.oregon-postgres.render.com
+    at /home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/node_modules/pg-pool/index.js:45:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async RoleModel.getUserPermissions (file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/models/roleModel.js:243:22)
+    at async file:///home/ubuntu/Desktop/all-mern-stack/OviSoftDubai/production/backend/services/role-permission-service/src/controllers/roleController.js:126:25

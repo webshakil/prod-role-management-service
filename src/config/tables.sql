@@ -195,8 +195,8 @@ INSERT INTO votteryy_permissions (permission_name, permission_category, descript
 ('vote_with_fee', 'voting', 'Participate in paid voting', 'vote', 'create'),
 ('verify_own_vote', 'voting', 'Verify personal vote integrity', 'vote', 'read'),
 ('audit_own_vote', 'voting', 'Access personal voting audit trail', 'vote', 'read'),
-('enter_lottery', 'voting', 'Participate in lottery draws', 'lottery', 'create'),
-('win_prizes', 'voting', 'Eligible to win lottery prizes', 'lottery', 'execute'),
+('enter_lottery', 'voting', 'Participate in gamify draws', 'lottery', 'create'),
+('win_prizes', 'voting', 'Eligible to win Gamify prizes', 'lottery', 'execute'),
 
 -- SPONSOR PERMISSIONS
 ('fund_prize_pools', 'financial', 'Deposit funds for prize pools', 'payment', 'create'),
